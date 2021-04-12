@@ -5,4 +5,5 @@ source "https://rubygems.org"
 git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
 gem 'github-pages'
-gem "bulma-clean-theme", "~> 0.10.6"
+# gem "bulma-clean-theme", "~> 0.10.6"
+gem "jekyll-theme-chirpy"

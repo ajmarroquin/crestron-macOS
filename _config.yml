@@ -3,11 +3,12 @@ tagline: Documentation on working with Crestron gear using macOS
 email: github@aj.marroqu.in
 description: >
   Documentation on working with Crestron gear using macOS
-remote_theme: chrisrhymes/bulma-clean-theme
+#remote_theme: chrisrhymes/bulma-clean-theme
+theme: jekyll-theme-chirpy
 baseurl: "/crestron-macOS"
 url: "https://ajmarroquin.github.io"
 permalink: pretty
 gh_sponsor: ajmarroquin
 markdown: kramdown
 highlighter: rouge
-fixed_navbar: top
+#fixed_navbar: top
